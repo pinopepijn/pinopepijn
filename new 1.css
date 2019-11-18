@@ -1,9 +1,7 @@
-
-
 body {
     font-family: arial, helvetica, sans-serif;
     font-size: 14px;
-}
+
 	p {
     letter-spacing: 0.5em;
     word-spacing: 2em;
@@ -43,3 +41,4 @@ strong {
     a {
         color: blue;
     }
+	}
